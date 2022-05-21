@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9FFA8360-0BBF-7AA7-0617-18280CA03E00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FlashlightController.cs" Line="17" Column="36" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="83" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/CurveControlledBob.cs" />
+      <File FileName="Assets/Scripts/SceneManager.cs" Line="27" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BK" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="SceneManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="291c023a-80e0-4c29-88de-4186687159da" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
