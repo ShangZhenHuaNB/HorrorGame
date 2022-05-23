@@ -35,7 +35,7 @@ public class FlashlightController : MonoBehaviour
         } else
         {
             flashlightAudio.PlayOneShot(flashlightAudioClip,1);
-            flashlightlight.intensity = 2;
+            flashlightlight.intensity = 5;
             flashlight.SetActive(true);
             isActive = true;
         }

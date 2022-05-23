@@ -64,7 +64,7 @@
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/BK/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" />
     <Compile Include="Assets/Scripts/FlashlightController.cs" />
-    <Compile Include="Assets/Scripts/SceneManager.cs" />
+    <Compile Include="Assets/Scripts/SceneMan.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Fonts/TextMesh Pro/Shaders/TMPro.cginc" />
